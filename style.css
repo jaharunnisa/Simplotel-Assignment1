@@ -36,7 +36,7 @@ body {
 }
 
 .menu-icon {
-    display: none; /* Hide icon on large screens */
+    display: show; /* Hide icon on large screens */
 }
 
 /* Hero Section */
@@ -277,4 +277,5 @@ body {
     .bottom-content h2 {
         font-size: 36px;
     }
+
 }
